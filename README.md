@@ -2,9 +2,13 @@
 
 Rename `cypress.example.json` file for `cypress.env.json` and fill with your data.
 
-### Scripts
+### How to
 
-Open cypress GUI
+```
+npm install
+```
+and 
 ```
 npm run cypress:open
 ```
+to open cypress console/gui.
