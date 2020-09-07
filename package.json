@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress run --spec **/*.feature",
-    "cypress:open:chrome": "cypress run --spec **/*.feature --browser chrome"
+    "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",
